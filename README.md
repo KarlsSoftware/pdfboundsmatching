@@ -23,7 +23,7 @@ Or run separately: `npm run dev:next` (frontend) and `npm run dev:python` (backe
 
 **Frontend:** Next.js 15, React 19, TypeScript, PDF.js
 **Backend:** FastAPI, pdfplumber, RapidFuzz
-**Design:** Dieter Rams-inspired minimal UI
+
 
 ---
 
